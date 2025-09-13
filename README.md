@@ -2,7 +2,7 @@
     Projeto para fazer cadastro
 
 ## Descrição
-    esse projeto permite que você faça um cadatro 
+    esse projeto permite que você faça um cadatro e login em um site de algumas empressas
 
 ## Sobre
     esse projeto pode é pra er utilizado por empressas como forma de fazer login e cadatro dentro do site da empresa
